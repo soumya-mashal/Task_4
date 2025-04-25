@@ -22,6 +22,8 @@ Superstore Sales Dataset from Kaggle
 - Excel for cleaning
 
 ## 📷 Screenshots:
+![image](https://github.com/user-attachments/assets/f906bd58-bbda-4214-a9fc-024d94db19fa)
+
 
 
 ## 🗃️ Files:
